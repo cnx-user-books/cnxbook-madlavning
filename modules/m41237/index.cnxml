@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Indkøb</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41237</md:content-id>
+  <md:title>Indkøb</md:title>
+  <md:abstract/>
+  <md:uuid>91cb5f28-2b8a-4324-9373-dac1d617bc24</md:uuid>
+</metadata>
+
+<content>
+
+<para id="para1">  
+  <title>Generelt om indkøb</title>
+
+</para>
+
+<para id="para2">
+Det er værd at gøre sig nogle overvejelser, inden man tager på indkøb. En planlægning af indkøbet bør indeholde følgende procedurer.
+
+<newline/> 
+
+<media id="indkoeb" alt="Planlægning af en indkøbstur">
+	   
+  <image mime-type="image/jpeg" src="../../media/indkoeb.jpg"/>
+
+</media>
+
+</para>
+
+<list id="liste">
+  <title>Planlægning af indkøb.</title>
+  <item>Lav indkøbslisten.</item>
+  <item>Beslut hvor du vil købe fødevarerne.</item>
+  <item>Foretag indkøbet.</item>
+  <item>Betal indkøbet og tjek at kassebonen stemmer.</item>
+  <item>Tag hjem og læg varerne i køleskabet.</item>
+</list> 
+
+<para id="madplan">Gode råd til indkøb
+
+  <link url="http://www.rema1000.dk/Madplanen.aspx" window="new">Rema1000s madplan</link>.
+</para><exercise id="eip-582"><title>Madplansøvelse</title><problem id="eip-887">
+  <para id="eip-81">Lav en madplan for den kommende uge på Rema1000s hjemmeside, som følger madpyramidens retningslinjer 
+  </para>
+</problem>
+
+</exercise>
+
+
+
+
+</content>
+</document>

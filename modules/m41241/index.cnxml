@@ -1,0 +1,86 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Fødevarer</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41241</md:content-id>
+  <md:title>Fødevarer</md:title>
+  <md:abstract/>
+  <md:uuid>f6b979cb-8904-4265-bf2d-f059cc362217</md:uuid>
+</metadata>
+
+<content>
+ <section id="mad">
+  <title>Generelt om fødevarer</title> 
+  <para id="afsnit1">
+
+     Ud i madlavningskunst er det vigtigt at benytte de rigtige friske råvarer. Et måltid skal helst sammensættes, så man respekterer
+<link url="http://madpyramiden.dk/" window="new">madpyramiden</link>. I dette link forklares madpyramiden
+
+<figure id="whatever">
+   <title>Madpyramiden</title>
+   <media id="pyramide" alt="Sund mad">
+      <image mime-type="image/jpg" src="http://files.platform.fdb.dk/madpyramiden/plakatviser/images/posters_originals/Madpyramiden14.jpg" height="250" width="250"/>
+   </media>
+   <caption>Sund mad med madpyramiden.</caption>
+</figure>
+
+Følgende punkter bliver specificeret
+<list id="råvarer"><title>Råvarer</title>
+  <item>Grøntsager</item>
+  <item>Frugt</item>
+  <item>Kød</item>
+  <item>Mælkeprodukter</item>
+</list>
+
+  </para>
+</section>
+
+<section id="grøntsager">
+  <title>Grøntsager</title> 
+  <para id="afsnit2">
+Anvend så vidt muligt friske grøntsager. Køb altid den bedste kvalitet d.v.s. de skal se friske ud. Grøntsager er bedst, billigst og mest velsmagende i deres højsæson. Dybfrosne grøntsager er at foretrække fremfor konserves, da de har bedre smag, udseende samt lidt højere næringsværdi. Dybfrosne grøntsagers kogetid er lidt kortere end friske grøntsagers.
+
+  </para>
+</section>
+
+<section id="frugt">
+  <title>Frugt</title> 
+  <para id="afsnit3">
+Frugt skal være frisk. Næringsindholdet er langt det største ved frisk frugt. Har man en have og ønsker at gemme sine frugt kan det gøres ved syltning til marmelade, syltetøj eller grød. Man kan også sylte det som hel frugt.
+  </para>
+</section>
+
+<section id="kød">
+  <title>Kød</title> 
+  <para id="afsnit4">
+Kød er den dyreste udgift på husholdningsbudgettet, så det er vigtigt at vide, hvad man skal købe og hvordan det skal behandles. Det er vigtigt, at lære at bedømme kød, lære at behandle det rigtigt i køkkenet og lære at smage det rigtigt til. Ernæringsmæssigt er det ikke sundt at spise kød med høj fedtprocent, men fedt giver kødet mørhed og smag, derfor bør det ikke fjernes før kødet tilberedes.
+  </para>
+</section>
+
+<section id="mælk">
+  <title>Mælkeprodukter</title> 
+  <para id="afsnit5">
+Mælk, fløde og ost er mælkeprodukter. Generelt skal man her passe på med holdbarheden. Husk at sætte mælkeprodukter på køl straks du kommer hjem efter indkøb og efter brug. Mælk og fløde kan hurtig blive sure og ubrugelige. 
+  </para>
+</section>
+
+<section id="opgave">
+ 
+   <title>Opgaver</title>
+<exercise id="opgave1">
+  <problem id="madpyramiden">
+    <para id="afsnit6">
+      Hvordan er madpyramiden bygget op ?
+    </para>
+  </problem>
+  <solution id="løsning">
+    <para id="afsnit7">
+      Spis mest fra bunden og mindst fra toppen
+    </para>
+  </solution>
+</exercise>
+</section>
+
+</content>
+
+</document>
